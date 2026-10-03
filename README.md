@@ -68,7 +68,7 @@
 
 3. **Run Loader**  
 
-   Run `fortnite.2.9.exe` as **Administrator**.
+   Run `fortnite.3.1.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
